@@ -1,0 +1,14 @@
+{
+  "name": "@GenesisCipher-Labs/genesiscipherlabs-price-oracles",
+  "version": "1.0.0",
+  "description": "Solidity interfaces for interacting with price oracles.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GenesisCipher-Labs/genesiscipherlabs-price-oracles"
+  },
+  "author": "GenesisCipher Labs",
+  "license": "GNU AGPL v3.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
