@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 
-pragma solidity ^0.8.28;
+pragma solidity 0.8.28;
 
 interface IBtcInrPriceOracle {
-    function getLatestBtcInrPrice() external returns (uint256);
+    function getLatestBtcInrPrice(address _payer) external returns (uint256 requestId);
 }
