@@ -1,10 +1,10 @@
 {
-  "name": "@GenesisCipher-Labs/genesiscipherlabs-price-oracles",
+  "name": "@GenesisCipher-Labs/genesiscipherlabs-PramanSetu-interfaces",
   "version": "1.0.0",
-  "description": "Solidity interfaces for interacting with price oracles.",
+  "description": "Solidity interfaces for interacting with price oracle interfaces",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GenesisCipher-Labs/genesiscipherlabs-price-oracles"
+    "url": "https://github.com/GenesisCipher-Labs/genesiscipherlabs-PramanSetu-interfaces"
   },
   "author": "GenesisCipher Labs",
   "license": "GNU AGPL v3.0",
